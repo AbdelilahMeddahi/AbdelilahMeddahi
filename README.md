@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Meddahi Abdelilah</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Meddahi Abdelilah</h1>
 <h3 align="center">A Computer Science Student, passionate flutter developer and a cyber security enthusiast</h3>
+
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **some mobile apps using flutter**
 
