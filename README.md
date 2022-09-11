@@ -23,12 +23,17 @@
 
 ##
 
-
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelilahmeddahi&show_icons=true&locale=en&layout=compact" alt="abdelilahmeddahi" /></p>
+
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelilahmeddahi&show_icons=true&locale=en" alt="abdelilahmeddahi" /></p>
 
+<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelilahmeddahi&" alt="abdelilahmeddahi" /></p>
+
 
 ##
 
