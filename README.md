@@ -23,8 +23,20 @@
 
 ##
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelilahmeddahi&show_icons=true&locale=en&layout=compact" alt="abdelilahmeddahi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelilahmeddahi&show_icons=true&locale=en" alt="abdelilahmeddahi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelilahmeddahi&" alt="abdelilahmeddahi" /></p>
+
+##
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/Brivan-26/github-readme-activity-graph"><img alt="Mohamed Abdessamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Brivan-26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
