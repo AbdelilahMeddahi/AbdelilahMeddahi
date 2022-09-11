@@ -45,17 +45,3 @@
 
 <br/>
 <br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelilahmeddahi&show_icons=true&locale=en&layout=compact" alt="abdelilahmeddahi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelilahmeddahi&show_icons=true&locale=en" alt="abdelilahmeddahi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelilahmeddahi&" alt="abdelilahmeddahi" /></p>
-
-##
-
-<a href="https://github.com/AbdelilahMeddahi/github-readme-activity-graph"><img alt="Abdelilah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdelilahMeddahi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
