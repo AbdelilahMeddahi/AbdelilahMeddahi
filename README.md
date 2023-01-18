@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/AbdelilahMeddahi/github-readme-activity-graph"><img alt="Mohamed Abdessamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdelilahMeddahi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AbdelilahMeddahi/github-readme-activity-graph"><img alt="Abdelilah Meddahi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdelilahMeddahi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
